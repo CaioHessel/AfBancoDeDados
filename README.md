@@ -19,6 +19,14 @@ Realização da atividade final de banco de dados, nessa atividade foram utiliza
 ## Tabela alunos
 ![image](https://github.com/CaioHessel/AfBancoDeDados/assets/64332918/e60c88f7-1f19-4cb9-8c66-e0648405ef4e)
 
+## Modelo lógico da normalização da tabela de uma locadora de veículos
+![image](https://github.com/CaioHessel/AfBancoDeDados/assets/64332918/4800303e-572c-46a1-baa7-30e3de6d4ab0)
+
+## View normalização
+![image](https://github.com/CaioHessel/AfBancoDeDados/assets/64332918/60150ee9-57b0-4015-8e62-b6fe5c178f95)
+
+
+
 #### Aluno: Caio Cesar Hessel de Oliveira
 #### RA: 200357
 
